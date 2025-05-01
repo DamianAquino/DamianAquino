@@ -1,5 +1,5 @@
 ## Hola 👋
-Mi nombre es Damian y soy un informático
+Mi nombre es Damian y soy programador backend.
 
 Tengo conocimientos en los lenguajes C, Java y Python.
 Conozco los paradigmas de programacion orientada a objetos, funcional y reactiva.
