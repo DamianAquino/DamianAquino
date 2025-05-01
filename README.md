@@ -1,8 +1,7 @@
 ## Hola 👋
 Mi nombre es Damian y soy programador backend.
 
-Tengo conocimientos en los lenguajes C, Java y Python.
-Conozco los paradigmas de programacion orientada a objetos, funcional y reactiva.
+Acá pueden encontrar los proyectos que realizo en los lenguajes Java, Python y C.
 
 <!--
 **DamianAquino/DamianAquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
