@@ -1,7 +1,6 @@
 ## Hola 👋
-Mi nombre es Damian y soy programador backend.
-
-Acá pueden encontrar los proyectos que realizo en los lenguajes Java, Python y C.
+Soy Damian, un programador de Open Source
+Los siguiente proyectos / carpetas son mis investigaciones acerca de las tecnologias de la informaciòn.
 
 <!--
 **DamianAquino/DamianAquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
