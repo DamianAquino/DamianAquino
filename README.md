@@ -1,5 +1,5 @@
 ## Hola 👋
-Soy Damian, un programador de Open Source
+Soy Damian, un programador 
 Los siguiente proyectos / carpetas son mis investigaciones acerca de las tecnologias de la informaciòn.
 
 <!--
