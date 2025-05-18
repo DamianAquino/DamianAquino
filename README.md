@@ -1,6 +1,6 @@
 ## Hola 👋
 Soy Damian, un programador. 
-Los siguiente proyectos / carpetas son mis investigaciones acerca de las tecnologias de la informaciòn y la comunicación.
+Los siguiente proyectos / carpetas son algunas de mis investigaciones acerca de las tecnologias de la informaciòn y la comunicación.
 
 <!--
 **DamianAquino/DamianAquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
