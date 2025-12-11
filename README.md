@@ -23,6 +23,8 @@ Incluye buenas prácticas, estructura limpia y compatibilidad con cualquier stac
 - **.NET**
 - **Git + GitHub**
 
-Gracias por leer
+---
+
+# 👋 Gracias por leer
 
 
