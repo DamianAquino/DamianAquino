@@ -1,4 +1,4 @@
-# Hola 👋
+# 👋 Hola
 Soy Damian, un Informatico. 
 Los siguiente proyectos / carpetas son algunas de mis investigaciones acerca de las tecnologias de la informaciòn y la comunicación.
 
