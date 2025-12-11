@@ -2,7 +2,7 @@
 Soy Damian, un Informatico. 
 Los siguiente proyectos / carpetas son algunas de mis investigaciones acerca de las tecnologias de la informaciòn y la comunicación.
 
-<!--
+
 **DamianAquino/DamianAquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
