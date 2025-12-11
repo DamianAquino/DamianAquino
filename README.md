@@ -20,6 +20,7 @@ Incluye buenas prácticas, estructura limpia y compatibilidad con cualquier stac
 # 📦 Tecnologías Utilizadas
 - **Python**
 - **Linux**
+- **.NET**
 - **Git + GitHub**
 
 Gracias por leer
