@@ -5,13 +5,13 @@ Los siguiente proyectos / carpetas son algunas de mis investigaciones acerca de 
 
 **DamianAquino/DamianAquino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-# ✨ Descripción
+# ✨ Descripción de los repositorios
 Proyecto moderno y minimalista pensado para desarrolladores que buscan una base clara, escalable y fácil de mantener.  
 Incluye buenas prácticas, estructura limpia y compatibilidad con cualquier stack actual.
 
 ---
 
-# 🧩 Características Principales de los repositorios
+# 🧩 Características Principales
 - Código simple.
 - Scripts de desarrollo.
 - Aplicaciones de CLI.
