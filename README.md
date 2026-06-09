@@ -1,5 +1,5 @@
 # 🐯 Hola
-Soy Damian, un Informatico.
+Soy Damian, un entusiasta por la informática.
 
 ---
 
@@ -18,8 +18,8 @@ Herramientas de analisis usando Python, Linux con sus respetivas bibliotecas.
 # 🧩 Tecnologías Utilizadas
 - **Python**
 - **Linux**
-- **.NET**
-- **Git + GitHub**
+- - **Java**
+
 
 ---
 
